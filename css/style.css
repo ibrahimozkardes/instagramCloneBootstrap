@@ -4,6 +4,8 @@
   color: gray;
   background-position: 40%;
   background-size: 6%;
+  background-image: url(/assets/search-solid.svg);
+  background-repeat: no-repeat;
 }
 
 input.empty {
@@ -15,7 +17,7 @@ input.empty {
 }
 
 .postuserfont {
-  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 15px;
   color: black;
 }
@@ -43,4 +45,30 @@ input.empty {
 .rightpanellinks:hover {
   text-decoration: none;
   color: lightgrey;
+}
+
+.navbar-sbt {
+  width: 100%;
+  height: 54px;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.logo {
+  margin-left: 192px;
+}
+
+.middlearea {
+  max-height: 200px; !important
+}
+
+#sticky-sidebar {
+  position: fixed;
+}
+
+.rightpanel {
+  background-color: white;
+  border: none;
 }
