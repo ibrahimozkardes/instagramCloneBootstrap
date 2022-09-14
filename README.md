@@ -1,1 +1,1 @@
-# instagramCloneBootstrap
+## Patika.dev profilime [buradan](https://app.patika.dev/ozkardes) ulaşabilirsiniz.
