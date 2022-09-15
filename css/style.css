@@ -72,3 +72,7 @@ input.empty {
   background-color: white;
   border: none;
 }
+
+body {
+  background-color: #fafafa;
+}
